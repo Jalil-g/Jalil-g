@@ -6,7 +6,7 @@
 
 Software & AI engineer building AI-agent tooling, machine-learning systems and full-stack products. MEng in Computer Science at **Cornell Tech** (2026–2027). BSc in Statistics & Computer Science from **McGill**.
 
-As a student consultant I worked on machine learning and data science for **Michelin** and **IATA**. I've also done reinforcement-learning research at **McGill** and software engineering at **Deloitte** and **IOMETE** (YC W22).
+As a student consultant I worked on machine learning and data science projects with **Michelin** and **IATA**. I've also done reinforcement-learning research at **McGill** and software engineering at **Deloitte** and **IOMETE** (YC W22).
 
 My portfolio is a 3D mechanical keyboard. **[Press a key →](https://jaliljabbarli.vercel.app)**
 
