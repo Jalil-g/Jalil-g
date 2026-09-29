@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1005 382" width="1005" height="382" role="img" aria-label="Tech stack. Languages: Python, TypeScript, JavaScript, SQL, C++, C, R, Bash. AI and ML: PyTorch, LangChain, LLM agents, XGBoost, scikit-learn, OpenCV, MediaPipe. Backend and infrastructure: FastAPI, Node.js, React, Kafka, Docker, AWS, MongoDB, PostgreSQL.">
+  <style>
+    text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif;font-weight:600}
+    .mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-weight:500}
+    .k{animation:press 9s ease-in-out infinite}
+    @keyframes press{0%,3%,100%{transform:translateY(0)}1.2%{transform:translateY(4px)}}
+    @media (prefers-reduced-motion:reduce){.k{animation:none}}
+  </style>
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.2" cy="1.2" r="1.1" fill="#fff" opacity=".07"/></pattern>
+    <radialGradient id="fade" cx="50%" cy="50%" r="65%"><stop offset=".35" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+    <mask id="dotmask"><rect width="100%" height="100%" fill="url(#fade)"/></mask><filter id="soft" x="-20%" y="-20%" width="140%" height="160%"><feGaussianBlur stdDeviation="4"/></filter></defs>
+  <rect width="1005" height="382" rx="28" fill="#09090a"/>
+  <rect width="1005" height="382" rx="28" fill="url(#dots)" mask="url(#dotmask)"/>
+  <rect x=".5" y=".5" width="1004" height="381" rx="27.5" fill="none" stroke="#fff" stroke-opacity=".09"/>
+  <text class="mono" x="48" y="58" font-size="13" letter-spacing="2.5" fill="#76736d">LANGUAGES</text>
+    <g class="k" style="animation-delay:0.00s">
+      <rect x="50" y="81" width="93" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="48" y="74" width="97" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="53" y="77" width="87" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="53.5" y="77.5" width="86" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="96.5" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">Python</text>
+    </g>
+    <g class="k" style="animation-delay:0.11s">
+      <rect x="159" y="81" width="129" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="157" y="74" width="133" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="162" y="77" width="123" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="162.5" y="77.5" width="122" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="223.5" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">TypeScript</text>
+    </g>
+    <g class="k" style="animation-delay:0.22s">
+      <rect x="304" y="81" width="129" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="302" y="74" width="133" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="307" y="77" width="123" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="307.5" y="77.5" width="122" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="368.5" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">JavaScript</text>
+    </g>
+    <g class="k" style="animation-delay:0.33s">
+      <rect x="449" y="81" width="69" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="447" y="74" width="73" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="452" y="77" width="63" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="452.5" y="77.5" width="62" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="483.5" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">SQL</text>
+    </g>
+    <g class="k" style="animation-delay:0.44s">
+      <rect x="534" y="81" width="69" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="532" y="74" width="73" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="537" y="77" width="63" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="537.5" y="77.5" width="62" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="568.5" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">C++</text>
+    </g>
+    <g class="k" style="animation-delay:0.55s">
+      <rect x="619" y="81" width="52" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="617" y="74" width="56" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="622" y="77" width="46" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="622.5" y="77.5" width="45" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="645" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">C</text>
+    </g>
+    <g class="k" style="animation-delay:0.66s">
+      <rect x="687" y="81" width="52" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="685" y="74" width="56" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="690" y="77" width="46" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="690.5" y="77.5" width="45" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="713" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">R</text>
+    </g>
+    <g class="k" style="animation-delay:0.77s">
+      <rect x="755" y="81" width="74" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="753" y="74" width="78" height="56" rx="13" fill="url(#skirt-white)"/>
+      <rect x="758" y="77" width="68" height="41" rx="10" fill="url(#top-white)"/>
+      <rect x="758.5" y="77.5" width="67" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="792" y="103.6" fill="#6a58ee" font-size="17" text-anchor="middle">Bash</text>
+    </g><defs>
+    <linearGradient id="skirt-white" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c3c2be"/>
+      <stop offset="1" stop-color="#7a7977"/>
+    </linearGradient>
+    <linearGradient id="top-white" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f6f4f1"/>
+      <stop offset="0.8" stop-color="#f4f2ee"/>
+    </linearGradient></defs>
+<text class="mono" x="48" y="174" font-size="13" letter-spacing="2.5" fill="#76736d">AI / ML</text>
+    <g class="k" style="animation-delay:0.88s">
+      <rect x="50" y="197" width="105" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="48" y="190" width="109" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="53" y="193" width="99" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="53.5" y="193.5" width="98" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="102.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">PyTorch</text>
+    </g>
+    <g class="k" style="animation-delay:0.99s">
+      <rect x="171" y="197" width="119" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="169" y="190" width="123" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="174" y="193" width="113" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="174.5" y="193.5" width="112" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="230.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">LangChain</text>
+    </g>
+    <g class="k" style="animation-delay:1.10s">
+      <rect x="306" y="197" width="131" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="304" y="190" width="135" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="309" y="193" width="125" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="309.5" y="193.5" width="124" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="371.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">LLM agents</text>
+    </g>
+    <g class="k" style="animation-delay:1.21s">
+      <rect x="453" y="197" width="107" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="451" y="190" width="111" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="456" y="193" width="101" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="456.5" y="193.5" width="100" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="506.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">XGBoost</text>
+    </g>
+    <g class="k" style="animation-delay:1.32s">
+      <rect x="576" y="197" width="135" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="574" y="190" width="139" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="579" y="193" width="129" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="579.5" y="193.5" width="128" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="643.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">scikit-learn</text>
+    </g>
+    <g class="k" style="animation-delay:1.43s">
+      <rect x="727" y="197" width="97" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="725" y="190" width="101" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="730" y="193" width="91" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="730.5" y="193.5" width="90" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="775.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">OpenCV</text>
+    </g>
+    <g class="k" style="animation-delay:1.54s">
+      <rect x="840" y="197" width="115" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="838" y="190" width="119" height="56" rx="13" fill="url(#skirt-teal)"/>
+      <rect x="843" y="193" width="109" height="41" rx="10" fill="url(#top-teal)"/>
+      <rect x="843.5" y="193.5" width="108" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="897.5" y="219.6" fill="#ffffff" font-size="17" text-anchor="middle">MediaPipe</text>
+    </g><defs>
+    <linearGradient id="skirt-teal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#266252"/>
+      <stop offset="1" stop-color="#183d33"/>
+    </linearGradient>
+    <linearGradient id="top-teal" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#549282"/>
+      <stop offset="0.8" stop-color="#2f7a66"/>
+    </linearGradient></defs>
+<text class="mono" x="48" y="290" font-size="13" letter-spacing="2.5" fill="#76736d">WEB, BACKEND &amp; CLOUD</text>
+    <g class="k" style="animation-delay:1.65s">
+      <rect x="50" y="313" width="109" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="48" y="306" width="113" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="53" y="309" width="103" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="53.5" y="309.5" width="102" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="104.5" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">FastAPI</text>
+    </g>
+    <g class="k" style="animation-delay:1.76s">
+      <rect x="175" y="313" width="98" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="173" y="306" width="102" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="178" y="309" width="92" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="178.5" y="309.5" width="91" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="224" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">Node.js</text>
+    </g>
+    <g class="k" style="animation-delay:1.87s">
+      <rect x="289" y="313" width="84" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="287" y="306" width="88" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="292" y="309" width="78" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="292.5" y="309.5" width="77" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="331" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">React</text>
+    </g>
+    <g class="k" style="animation-delay:1.98s">
+      <rect x="389" y="313" width="84" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="387" y="306" width="88" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="392" y="309" width="78" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="392.5" y="309.5" width="77" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="431" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">Kafka</text>
+    </g>
+    <g class="k" style="animation-delay:2.09s">
+      <rect x="489" y="313" width="93" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="487" y="306" width="97" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="492" y="309" width="87" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="492.5" y="309.5" width="86" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="535.5" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">Docker</text>
+    </g>
+    <g class="k" style="animation-delay:2.20s">
+      <rect x="598" y="313" width="69" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="596" y="306" width="73" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="601" y="309" width="63" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="601.5" y="309.5" width="62" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="632.5" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">AWS</text>
+    </g>
+    <g class="k" style="animation-delay:2.31s">
+      <rect x="683" y="313" width="107" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="681" y="306" width="111" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="686" y="309" width="101" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="686.5" y="309.5" width="100" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="736.5" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">MongoDB</text>
+    </g>
+    <g class="k" style="animation-delay:2.42s">
+      <rect x="806" y="313" width="137" height="56" rx="13" fill="#000" opacity=".5" filter="url(#soft)"/>
+      <rect x="804" y="306" width="141" height="56" rx="13" fill="url(#skirt-orange)"/>
+      <rect x="809" y="309" width="131" height="41" rx="10" fill="url(#top-orange)"/>
+      <rect x="809.5" y="309.5" width="130" height="40" rx="9.5" fill="none" stroke="#fff" stroke-opacity=".22"/>
+      <text x="874.5" y="335.6" fill="#ffffff" font-size="17" text-anchor="middle">PostgreSQL</text>
+    </g><defs>
+    <linearGradient id="skirt-orange" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#c25a16"/>
+      <stop offset="1" stop-color="#79380e"/>
+    </linearGradient>
+    <linearGradient id="top-orange" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f48a44"/>
+      <stop offset="0.8" stop-color="#f2701b"/>
+    </linearGradient></defs>
+</svg>
